@@ -1,5 +1,5 @@
 h1 {
-    color: #6A5ACD;
+    color: #00126b;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 50px;
     padding: 0;
@@ -9,9 +9,9 @@ h1 {
 p {
     font-family: verdana;
     font-size: 20px;
-    color: black;
+    color: #00c6f2;
   }
 
 body {
-  background-color: #FFE4B5;
+  background-color: #fcffcc;
 }
