@@ -12,10 +12,6 @@ p {
     color: #008B8B;
   }
 
-body {
-  background: linear-gradient(to top left, #00ccff 0%, #ffffcc 100%);
-}
-
 a:link {
   color: #008080;
     }
@@ -26,3 +22,15 @@ a:visited {
 ul li {
      font-size: 20px;
     }
+
+
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background: linear-gradient(to top left, #00ccff 0%, #ffffcc 100%);
+}
