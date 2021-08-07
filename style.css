@@ -34,3 +34,9 @@ body {
     background-attachment: fixed;
     background: linear-gradient(to bottom right, #ffffff 0%, #ffcc00 100%);
 }
+
+.x {
+  display: block;
+  margin-left: auto;
+  width: 50%;
+}
