@@ -20,11 +20,12 @@ a:link {
   color: #1E90FF;
   background-color: transparent;
   text-decoration: none;
+    }
 a:visited {
   color: #2F4F4F;
   background-color: transparent;
   text-decoration: none;
-
+}
     
  li {
      font-size: 10px;
