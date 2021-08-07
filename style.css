@@ -1,17 +1,17 @@
 h1 {
-    color: #00126b;
+    color: #4B0082;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 50px;
+    font-size: 70px;
     padding: 0;
     text-align: center;
 }
 
 p {
     font-family: verdana;
-    font-size: 20px;
-    color: #00c6f2;
+    font-size: 30px;
+    color: #008B8B;
   }
 
 body {
-  background-color: #fcffcc;
+  background-color: #FFF8DC;
 }
