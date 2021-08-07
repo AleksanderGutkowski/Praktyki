@@ -13,7 +13,7 @@ p {
   }
 
 body {
-  background-color: #FFF8DC;
+  background-color: background: linear-gradient(to bottom right, #ffffff 0%, #ffff00 100%);
 }
 
 a:link {
