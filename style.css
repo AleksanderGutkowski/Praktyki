@@ -34,12 +34,3 @@ body {
 html {
     height: 100%;
 }
-
-
-.x {
-position: absolute;
-right: 0px;
-bottom: 5px;
-width:400px;
-height:150px;
-}
